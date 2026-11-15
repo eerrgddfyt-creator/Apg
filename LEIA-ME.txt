@@ -1,0 +1,5 @@
+APAGÃO - como colocar no ar (celular)
+1) No GitHub, crie um repositório e envie TODOS os arquivos desta pasta na raiz (sem subpastas).
+2) Settings > Pages > Deploy from a branch > main / (root) > Save.
+3) Abra o link gerado. Todos os jogadores devem abrir o mesmo link.
+Online: um jogador toca em Jogar online > Criar sala e passa o código de 5 letras; os outros entram com o código.
